@@ -1,0 +1,23 @@
+h1 {
+  font-weight: bold !important;
+  color: #2E2EFE !important;
+}
+
+table {
+	color: black;
+	font-family: tahoma;
+	font-size: 14px;
+}
+
+table thead {
+	background: #01DFD7;
+}
+
+.frm-add {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.frm-add .form-group {
+	padding-bottom: 15px;
+}
